@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6, ul, li, a, blockquote {
 
 /****** Header Section ********************/
 header {
-    background-color: #734F2F;
+    background-color: red;
     min-height: 250px;
 }
 
