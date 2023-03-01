@@ -40,7 +40,7 @@ header h1 {
 header h2 {
     margin: 0;
     font-size: 3em;
-    color: #E4F2EA;
+    color: red;
     text-align: center;
     text-shadow: /*Adds FULL Drop Shadow around text */
         3px 3px 5px #11181E,
