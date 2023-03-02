@@ -66,8 +66,8 @@ header h2 {
 }
 
 .hNav {
-    padding: 5px 0;
-    background: #A68160 ;
+  text-align: center;
+	padding: .8em;
 }
 
 .hNav ul {
