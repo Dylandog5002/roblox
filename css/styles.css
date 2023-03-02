@@ -140,3 +140,21 @@ footer p {
     margin-right: 50px;
 }
     
+#container{
+	margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+	font-size: 1.8em;
+	font-family: 'Crimson Pro', serif;
+    background-color: red;
+    text-decoration-color: black;
+}
+
+#container img{
+	float: left;
+	margin-right: 2%;
+	border: 20px double purple;
+	border-radius: 10px;
+	text-align: right;
+
+}
