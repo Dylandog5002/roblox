@@ -158,3 +158,20 @@ footer p {
 	text-align: right;
 
 }
+
+.frame{
+	position: relative;
+	max-width: 450px;
+}
+
+/*Style rule for form element */
+	form {
+		background-color: #FFFFFF;
+		padding: 1em;
+	}
+	
+	/* Style rule for paragraph within form element */
+	form p {
+		color: #000000;
+	}
+	
