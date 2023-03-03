@@ -146,14 +146,14 @@ footer p {
 	min-height: 500px;
 	font-size: 1.8em;
 	font-family: 'Crimson Pro', serif;
-    background-color: red;
+    background-color: #E4F2EA;
     text-decoration-color: black;
 }
 
 #container img{
 	float: left;
 	margin-right: 2%;
-	border: 20px double purple;
+	border: 20px double;
 	border-radius: 10px;
 	text-align: right;
 
